@@ -36,7 +36,8 @@ Key columns in the dataset include:
 - patient: Unique identifier for each patient
 
 
-  Parkinson's Disease Voice Analysis
+Parkinson's Disease Voice Analysis
+
 This project, implemented as a Jupyter Notebook (ParkinsonsAnalysis.ipynb), focuses on analyzing voice data to potentially assist in the diagnosis and monitoring of Parkinson's disease. It involves data loading, preprocessing, and the application of machine learning models to classify individuals based on their voice characteristics.
 
 Table of Contents
